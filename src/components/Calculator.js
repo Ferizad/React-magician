@@ -21,7 +21,7 @@ function Calculator() {
         <div className="btn">2</div>
         <div className="btn">3</div>
         <div className="btn orng">-</div>
-        <div className="btn">0</div>
+        <div className="btn zero">0</div>
         <div className="btn">.</div>
         <div className="btn">=</div>
       </div>
